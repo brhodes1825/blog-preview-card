@@ -27,4 +27,6 @@ body {
 img .illustration {
   margin: auto auto;
   border-radius: 10px;
+  width: 17rem;
+  height: 17rem;
 }
