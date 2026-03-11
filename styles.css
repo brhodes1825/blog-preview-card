@@ -19,7 +19,7 @@ body {
   background-color: hsl(0, 0%, 100%);
   margin: 0 auto;
   border: 1px solid black;
-  box-shadow: 0 7px 7px 0 black;
+  box-shadow: 7px 7px black;
   border-radius: 10px;
   padding: 10px;
 }
