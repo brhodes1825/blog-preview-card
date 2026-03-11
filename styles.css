@@ -20,11 +20,11 @@ body {
   margin: 0 auto;
   border: 1px solid black;
   box-shadow: 0 7px 7px 0 black;
-  border-radius: 5px;
+  border-radius: 10px;
   padding: 10px;
 }
 
-img {
+img .illustration {
   margin: auto auto;
-  border-radius: 5px;
+  border-radius: 10px;
 }
