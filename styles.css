@@ -39,4 +39,26 @@ img .illustration {
   border-radius: 5px;
   font-family: "Figtree";
   font-size: 12px;
+  margin: 10px;
+}
+
+.publish-date {
+  font-family: "Figtree";
+  font-size: 12px;
+}
+
+.post-title {
+  font-family: "Figtree";
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.paragraph {
+  color: sl(0, 0%, 42%);
+  font-family: "Figtree";
+  font-size: 16px;  
+}
+
+img .profile-pic {
+  display: flex;
 }
