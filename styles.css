@@ -49,8 +49,8 @@ body {
 .mini-header {
   background-color: var(--yellow-color);
   color: var(--darkgray-color);
-  width: 3rem;
-  height: 1.5rem;
+  width: 3.5rem;
+  height: 1.75rem;
   font-size: 12px;
   font-weight: 600;
   padding: 7px;
