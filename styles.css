@@ -41,7 +41,9 @@ body {
 .illustration {
   border-radius: 20px;
   object-fit: cover;
-  width: 98%;
+  display: block;
+  width: 100%;
+  margin: 1rem;
 }
 
 .mini-header {
