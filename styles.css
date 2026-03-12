@@ -27,6 +27,7 @@ body {
   border-radius: 20px;
   width: 19rem;
   height: 18rem;
+  object-fit: cover;
 }
 
 .mini-header {
