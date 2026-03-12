@@ -14,8 +14,8 @@ body {
 }
 
 .card-container {
-  width: 21.5rem;
-  height: 32.5rem;
+  width: 22rem;
+  height: 33rem;
   background-color: hsl(0, 0%, 100%);
   margin: 0 auto;
   border: 1px solid black;
