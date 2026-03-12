@@ -19,14 +19,14 @@ body {
   background-color: hsl(0, 0%, 100%);
   margin: 0 auto;
   border: 1px solid black;
-  box-shadow: 7px 7px black;
-  border-radius: 10px;
+  box-shadow: 10px 10px black;
+  border-radius: 15px;
   padding: 10px;
 }
 
 img .illustration {
   margin: auto auto;
-  border-radius: 10px;
+  border-radius: 15px;
   width: 17rem;
   height: 17rem;
 }
