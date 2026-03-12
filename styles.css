@@ -41,6 +41,9 @@ body {
   font-weight: bold;
   padding: 7px;
   text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .publish-date {
