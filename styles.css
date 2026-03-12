@@ -49,15 +49,16 @@ body {
 .mini-header {
   background-color: var(--yellow-color);
   color: var(--darkgray-color);
-  width: 3.5rem;
-  height: 1.75rem;
-  font-size: 12px;
-  font-weight: 600;
+  width: 3.75rem;
+  height: 1.8rem;
+  font-size: 13px;
+  font-weight: 800;
   padding: 7px;
   text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
+  border-radius: 1px;
 }
 
 .publish-date {
