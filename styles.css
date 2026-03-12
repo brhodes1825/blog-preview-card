@@ -19,17 +19,18 @@
 body {
   width: 100vw;
   height: 99vh;
-  background-color: --yellow-color;
+  background-color: var(--yellow-color);
   margin: auto auto;
   display: flex;
   align-items: center;
   justify-content: center;
+  font-family: "Figtree";
 }
 
 .card-container {
   width: 22rem;
   height: 33rem;
-  background-color: --white-color;
+  background-color: var(--white-color);
   margin: 0 auto;
   border: 1px solid black;
   box-shadow: 10px 10px black;
@@ -42,12 +43,11 @@ body {
 }
 
 .mini-header {
-  background-color: --yellow-color;
-  color: --darkgray-color;
+  background-color: var(--yellow-color);
+  color: var(--darkgray-color);
   width: 2.5rem;
   height: 1.5rem;
   border-radius: 10px;
-  font-family: "Figtree";
   font-size: 14px;
   font-weight: bold;
   padding: 7px;
@@ -58,19 +58,16 @@ body {
 }
 
 .publish-date {
-  font-family: "Figtree";
   font-size: 14px;
 }
 
 .post-title {
-  font-family: "Figtree";
   font-size: 22px;
   font-weight: 800;
 }
 
 .paragraph {
-  color: --lightgray-color;
-  font-family: "Figtree";
+  color: var(--lightgray-color);
   font-size: 16px;  
 }
 
