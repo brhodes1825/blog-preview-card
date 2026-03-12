@@ -14,13 +14,13 @@ body {
 }
 
 .card-container {
-  width: 22rem;
+  width: 21.5rem;
   height: 32.5rem;
   background-color: hsl(0, 0%, 100%);
   margin: 0 auto;
   border: 1px solid black;
   box-shadow: 10px 10px black;
-  border-radius: 15px;
+  border-radius: 20px;
   padding: 15px;
 }
 
