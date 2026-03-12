@@ -29,9 +29,6 @@ body {
   border-radius: 20px;
   width: 17rem;
   height: 17rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .mini-header {
